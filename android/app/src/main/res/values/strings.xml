@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">pwa2b</string>
+    <string name="title_activity_main">pwa2b</string>
+    <string name="package_name">com.aleks_veta_project</string>
+    <string name="custom_url_scheme">com.aleks_veta_project</string>
+</resources>

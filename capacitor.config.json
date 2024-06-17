@@ -1,0 +1,10 @@
+{
+  "appId": "com.aleks_veta_project",
+  "appName": "pwa2b",
+  "webDir": "www",
+  "server": {
+    "url": "https://ventalis-clients.onrender.com/",
+    "cleartext": true
+  }
+}
+
